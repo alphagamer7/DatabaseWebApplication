@@ -19,7 +19,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author kosala
+ * @author Athif
  */
 public class DatabseManager extends HttpServlet {
 
